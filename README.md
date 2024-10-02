@@ -1,3 +1,5 @@
-# pvz
-The repostory of PvZ project for OOP
+# Plants VS Zombies
+Team name:
+Group member:
+
 ---
