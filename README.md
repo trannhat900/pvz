@@ -1,5 +1,5 @@
-# Plants VS Zombies
-<h2>Team name: </h2>
+# 👽 Plants VS Zombies
+<h2>Team name: Planties</h2>
 <h2>Group member: </h2>
 <table>
   <tr>
@@ -35,7 +35,8 @@
 </table>
 
 <h1>About Plants VS Zombies</h1>
-
+<p>Inspired by the game Plants vs. Zombies, our group decided to create additional plant and zombie characters, as well as other features. 
+  <br>Please note that this version is for learning and practice purposes only.</p>
 <h2>Sumary</h2>
 
 <h2>Rule</h2>
