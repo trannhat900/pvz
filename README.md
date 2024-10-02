@@ -1,5 +1,5 @@
 # Plants VS Zombies
-Team name:
+Team name: \n
 Group member:
 
 ---
