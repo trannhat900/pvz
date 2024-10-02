@@ -35,4 +35,14 @@
 </table>
 
 <h1>About Plants VS Zombies</h1>
+
+<h2>Sumary</h2>
+
+<h2>Rule</h2>
+
+<h2>How to run</h2>
+
+<h2>Preview</h2>
+
+<h2>References</h2>
 ---
