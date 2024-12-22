@@ -85,7 +85,7 @@ Players must defend their house from waves of zombies by strategically planting 
 <ul>
   <li>🎬 <strong>Start Screen:</strong> <br><img src="https://github.com/trannhat900/pvz/blob/main/src/images/Background_main_menu.png" alt="Start Screen" width="500"></li>
   <li>⚔️ <strong>Gameplay:</strong> <br><img src="https://github.com/trannhat900/pvz/blob/main/src/images/Game_play.png" alt="Gameplay" width="500"></li>
-  <li>💀 <strong>Game Over Screen:</strong> <br><img src="[Insert-GameOver-Screenshot-Link]" alt="Game Over Screen" width="500"></li>
+<!--   <li>💀 <strong>Game Over Screen:</strong> <br><img src="[Insert-GameOver-Screenshot-Link]" alt="Game Over Screen" width="500"></li> -->
 </ul>
 
 ---
